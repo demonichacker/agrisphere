@@ -287,6 +287,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ for sustainable agriculture**
+**IO Made It with ❤️ for sustainable agriculture**
 
 🌱 *Growing the future, one byte at a time* 🌱
