@@ -12,7 +12,6 @@ const nextConfig = {
   // Performance optimizations
   swcMinify: true,
   experimental: {
-    optimizeCss: true,
     scrollRestoration: true,
   },
   compiler: {

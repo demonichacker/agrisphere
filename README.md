@@ -1,4 +1,4 @@
-# 🌱 AgriSphere - Smart Agricultural Monitoring Platform
+# 🌱 IOGRIC - Smart Agricultural Monitoring Platform
 
 [![Next.js](https://img.shields.io/badge/Next.js-14.2.16-black)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-blue)](https://www.typescriptlang.org/)
@@ -25,7 +25,7 @@
 
 ## 🌟 Overview
 
-AgriSphere is a comprehensive agricultural monitoring platform that combines cutting-edge technology with user-friendly design to help farmers optimize their operations. Built with modern web technologies, it provides real-time insights, predictive analytics, and intelligent automation for sustainable farming practices.
+IOGRIC is a comprehensive agricultural monitoring platform that combines cutting-edge technology with user-friendly design to help farmers optimize their operations. Built with modern web technologies, it provides real-time insights, predictive analytics, and intelligent automation for sustainable farming practices.
 
 ### 🎯 Mission
 Transform traditional agriculture through technology, enabling farmers to make data-driven decisions that maximize yields while minimizing environmental impact.
@@ -99,10 +99,10 @@ npm --version   # Should be 8.0.0+
 ### Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/demonichacker/agrisphere.git
-   cd agrisphere
-   ```
+    ```bash
+    git clone https://github.com/demonichacker/iogric.git
+    cd iogric
+    ```
 
 2. **Install dependencies**
    ```bash
@@ -126,11 +126,11 @@ npm --version   # Should be 8.0.0+
 ### Demo Credentials
 Use these credentials to explore the platform:
 
-- **Email:** `demo@agrisphere.com`
+- **Email:** `demo@iogric.com`
 - **Password:** `demo123`
 
 ### Live Demo
-🌐 **[View Live Demo](https://agrisphere.vercel.app)** (Deploy when ready)
+🌐 **[View Live Demo](https://iogric.vercel.app)** (Deploy when ready)
 
 ### Screenshots
 
@@ -146,7 +146,7 @@ Use these credentials to explore the platform:
 ## 🏗️ Project Structure
 
 ```
-agrisphere/
+iogric/
 ├── app/                          # Next.js App Router
 │   ├── (auth)/                   # Authentication pages
 │   ├── (dashboard)/              # Protected dashboard pages
@@ -281,9 +281,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/demonichacker/agrisphere/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/demonichacker/agrisphere/discussions)
-- **Email:** hello@agrisphere.com
+- **Issues:** [GitHub Issues](https://github.com/demonichacker/iogric/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/demonichacker/iogric/discussions)
+- **Email:** hello@iogric.com
 
 ---
 
